@@ -1,0 +1,13 @@
+/*   
+Theme Name: Anadev Theme
+Description: A Child Theme of twentynineteen
+Template: twentynineteen
+*/
+
+@import "compass";
+@import "compass/reset";
+
+/* Here we import our partials teste */
+@import "_partials/mixins";
+@import "_partials/variables";
+@import "_partials/typography";
